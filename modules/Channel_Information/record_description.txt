@@ -1,0 +1,5 @@
+[center]
+[size=14]Rekord serwera został ustanowiony [b]{date}[/b] i wynosi [b]{record}[/b][/size]
+
+[size=14]Server record was reached on [b]{date}[/b] and is [b]{record}[/b][/size]
+

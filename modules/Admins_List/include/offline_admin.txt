@@ -1,0 +1,5 @@
+[*]
+[SIZE=12][B]{client_nickname}[/B]
+Status: [B]{status}[/B]
+Ostatnie połączenie: {last_connection}
+[/size]

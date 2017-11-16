@@ -1,0 +1,6 @@
+[*]
+[SIZE=12][B]{client_nickname}[/B]
+Status: [B]{status}[/B]
+Na kanale: [B]{channel}[/B]
+Czas na serwerze: [B]{online_time}[/B]
+[/SIZE]

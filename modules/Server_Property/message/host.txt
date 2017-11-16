@@ -1,0 +1,24 @@
+
+PL:	To jest wiadomość hosta.
+	Możesz w niej użyć takich zmiennych jak:
+		#        {online} - aktualnie online,
+		#        {max} - maksymalnie użytkowników,
+		#        {uptime} - czas działania serwera,
+		#        {hour} - aktualna godzina,
+		#        {minute} - aktualna minuta,
+		#        {ping} - średni opóźnienie na serwerze,
+		#        {channel} - liczba kanałów
+
+EN:	This is the host message.
+	You can use variables like:
+		#        {online} - current online,
+		#        {max} - max clients,
+		#        {uptime} - uptime of server,
+		#        {hour} - current hour,
+		#        {minute} - current minute,
+		#        {ping} - average ping on the server,
+		#        {channel} - channel count
+
+	
+Generate by QueryCore - TeamSpeak3 server control bot.
+

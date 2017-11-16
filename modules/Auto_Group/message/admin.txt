@@ -1,0 +1,2 @@
+Użytkownik {user_nickname} czeka na kanale pomocy.
+

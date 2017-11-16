@@ -1,0 +1,3 @@
+
+Aktualnie jest {admin_count} administratorów online, zaraz jeden z nich przyjdzie do ciebie.
+Lista administratorów online: {admin_list}

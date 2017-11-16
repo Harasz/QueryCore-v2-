@@ -1,0 +1,29 @@
+PL:	To jest wiadomośc powitalna.
+	Możesz w niej użyć takich zmiennych jak:
+		#        {online} - aktualnie online,
+		#        {max} - maksymalnie użytkowników,
+		#        {uptime} - czas działania serwera,
+		#        {hour} - aktualna godzina,
+		#        {minute} - aktualna minuta,
+		#        {ping} - średni opóźnienie na serwerze,
+		#        {channel} - liczba kanałów
+		#	 {client_nickname} - nazwa odbiorcy wiadomości
+		#	 {client_unread_messages} - ilość nieprzeczytanych wiadomości
+		#	 {client_unique_identifier} - UID odbiorcy wiadomości
+
+EN:	This is the welcome message.
+	You can use variables like:
+		#        {online} - current online,
+		#        {max} - max clients,
+		#        {uptime} - uptime of server,
+		#        {hour} - current hour,
+		#        {minute} - current minute,
+		#        {ping} - average ping on the server,
+		#        {channel} - channel count
+		#	 {client_nickname} - nick name of recipient
+		#	 {client_unread_messages} - count of unread messages
+		#	 {client_unique_identifier} - UID od recipient
+
+	
+Generate by QueryCore - TeamSpeak3 server control bot.
+

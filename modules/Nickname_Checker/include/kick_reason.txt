@@ -1,0 +1,2 @@
+PL: Twój nick zawiera niedozwolony wyraz: {bad_word}
+EN: Your nickname has prohibited word: {bad_word}

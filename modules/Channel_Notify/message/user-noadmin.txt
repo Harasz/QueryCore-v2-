@@ -1,0 +1,3 @@
+
+Aktualnie jest {admin_count} administratorów online. Spróbuj wejść za chwilę.
+Lista administratorów online: {admin_list}
